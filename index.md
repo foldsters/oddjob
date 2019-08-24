@@ -1,4 +1,3 @@
-# Oddjob
 
 ![](https://i.imgur.com/LqACoih.png)
 
